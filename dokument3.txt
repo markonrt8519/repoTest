@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+gfdhs
+=======
+asdf
+>>>>>>> nova-grana-2
